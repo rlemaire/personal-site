@@ -1,0 +1,39 @@
+---
+id: 1622
+title: "Revue de presse - Aout et Septembre 2023"
+date: 2023-09-29T00:00:00+00:00
+author: Raphaël Lemaire
+layout: post
+guid: http://raphael-lemaire.com/blog/?p=1622
+permalink: /2023/09/29/revue-de-presse/
+categories:
+- GreenIT
+- Liens du mois
+---
+
+Bonjour,
+
+En cumulé fin aout et septembre, voici une collection de liens en vrac : 
+
+ * L’entreprise Greenspector a publié sur leur blog [un article sur l’impact du réseau](https://greenspector.com/fr/quel-est-limpact-du-reseau-dans-les-services-numeriques/) qui compare différentes sources et où ils proposent des chiffres basés sur leur propre analyse.
+ * Le genre d’innovation sympa que j’aime bien collectionner : [des circuits imprimés solubles dans l'eau](https://green-it.developpez.com/actu/346931/Les-circuits-imprimes-solubles-dans-l-eau-aident-a-minimiser-les-dechets-electroniques-et-a-reduire-l-empreinte-carbone-de-60-pourcent-affirme-le-fabricant-de-semi-conducteurs-Infineon/) aident pour minimiser les DEEE et l’empreinte carbone du produit.
+ * [La moitié des militants écologistes ont quitté Twitter](https://mobiles.developpez.com/actu/347392/Plus-de-50-pourcent-des-militants-ecologistes-pour-le-climat-ont-abandonne-Twitter-apres-la-prise-en-main-de-Musk/) depuis l'arrivée d'Elon Musk.
+ * Man, le programme pour avoir la documentation des outils en ligne de commande unix, [écrivait « gimme gimme gimme » (en)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030) après minuit en référence à [la chanson éponyme du groupe ABBA](https://www.youtube.com/watch?v=XEjLoHdbVeE). There's not a soul out there, no one to hear my prayer… 🎶
+ * Le Monde a publié un [test du Fairphone 5](https://www.lemonde.fr/pixels/article/2023/08/30/on-a-teste-le-fairphone-5-un-smartphone-ecoresponsable-enfin-convaincant_6187064_4408996.html) plutôt positif.
+ * Cet article assez long sur [le mode sombre (en)](https://www.nngroup.com/articles/dark-mode-users-issues/) est assez intéressant : il n’est pas prouvé que celui-ci est mieux pour les yeux, il est très difficile à réaliser, avec une liste de pièges détaillés dans l’article, et bien que la moitié des smartphones utilisent désormais la technologie OLED, la luminosité reste le plus important dans la consommation d’énergie et donc l’usure de la batterie.
+* [« iPhones are made in hell » (en)](https://restofworld.org/2023/foxconn-iphone-factory-china/) : un long article avec des témoignages sur les usines où les iphones sont assemblés : des conditions de travail difficiles, des humiliations, des contrats précaires, mais un bon salaire, pour la région.
+* Les géants du numérique continuent leur démarche de déploiement de projets de décarbonation, comme le montre [ce partenariat de Microsoft avec une entreprise pour stocker du carbone dans du calcaire](https://green-it.developpez.com/actu/348223/Microsoft-signe-un-contrat-geant-d-elimination-du-carbone-pour-eponger-le-CO2-a-l-aide-de-calcaire-certains-y-voient-une-operation-de-greenwashing-qui-repose-sur-une-technologie-couteuse/). Cependant, pas de stratégie pour réduire les émissions, évaluer les services, pas de question de sobriété, etc.
+* En aout, l’entreprise de cryptomonnaies Riot [a gagné plus d’argent avec des subventions reçues en acceptant de réduire son activité qu’avec les bitcoins](https://green-it.developpez.com/actu/348221/Une-entreprise-crypto-au-Texas-gagne-plus-en-faisant-tourner-ses-plateformes-au-ralenti-qu-en-minant-du-Bitcoin-le-Texas-la-paie-des-millions-de-dollars-pour-reduire-sa-consommation-electrique/) qu’elle a miné.
+* C’est connu et évident, mais une étude formelle aide toujours : [les évolutions de carrières sont largement déterminées par la chance](https://theconversation.com/comment-la-chance-ou-la-malchance-influence-les-evolutions-de-carriere-211964).
+* La première fois que j’ai entendu parler d’accessibilité, c’était en 2006. Elle était déjà obligatoire pour les sites publics et ceux des grandes entreprises… [L’état renforce aujourd’hui les sanctions](https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-a-100-percent-le-gouvernement-passe-a-la-vitesse-superieure-et-presente-une-ordonnance-visant-a-controler-laccessibilite-des-sites-des-administrations-publiques-a-compter-2024/).
+* [Un article intéressant sur le design des études](https://praticable.fr/publications/le-probleme-des-etudes) : le résultat est quasi toujours uniquement disponible en PDF, peu pratique à lire sur un écran, alors que le web permet de faire beaucoup mieux.
+* Le W3C a sorti [un brouillon de guidelines pour un web écoresponsable (en)](https://w3c.github.io/sustyweb/glance.html#abstract).
+* OVH lance [une calculette carbone](https://corporate.ovhcloud.com/fr/newsroom/news/carbon-calculator-launch/) pour ses clients.
+* [The tyranny of the marginal user (en)](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user) : pourquoi les produits logiciels deviennent de moins en moins bons avec le temps.
+* Framework, entreprise qui crée des ordinateurs plus réparables, [assume ne pas être durable (en)](https://frame.work/nl/en/blog/we-are-not-sustainable) « et aucun autre fabricant ne l’est »
+* Comme tous ceux qui ont déjà utilisé une base de donnés et/ou une clef de chiffrement le prévoyaient, [la plupart des NFT ne valent plus rien (en)](https://markets.businessinsider.com/news/currencies/nft-market-crypto-digital-assets-investors-messari-mainnet-currency-tokens-2023-9) aujourd'hui. Certains ont sans doute gagné de l’argent avec de la spéculation mais la bulle a désormais dégonflé.
+* Les modèles d'IA (pour ChapGPT par exemple) entraine [une forte hausse de la consommation d'eau chez Microsoft (en)](https://www.nextinpact.com/lebrief/72398/1000-prompts-chatgpt-consomment-1-litre-deau-dont-consommation-explose-34-chez-microsoft)
+* Google [retire la version Html simplifiée de GMail (en)](https://support.google.com/mail/answer/15049?hl=en#zippy=%2Ccheck-your-browser) en janvier 2024.
+* [Un article dans Le Monde sur les femmes dans la tech](https://www.lemonde.fr/campus/article/2023/09/25/dans-la-tech-les-femmes-encore-obligees-de-passer-par-des-trous-de-souris-desormais-je-suis-la-meuf-du-service_6190841_4401467.html). A base de témoignages, on y parle du poids de l’infériorité numérique, de la difficulté des parcours, en particulier en cas de reconversion,  mais aussi de la facilité de trouver un emploi bien rémunéré et de la liberté qu’offre notre branche où il n’y a pas de chômage et des associations actives comme les [Duchess](https://www.duchess-france.fr/) ou [Ladies of Code](https://ladiesofcodeparis.netlify.app/), pour aider les femmes du numérique.
+* [Un long article sur iFixIt sur les pièces appariée](https://fr.ifixit.com/News/78830/lappariement-des-pieces-met-la-reparation-electronique-independante-en-danger), c’est-à-dire liées à un appareil (par exemple la batterie d’un smartphone ne peut pas être remplacé par une batterie identique sans déclencher de message d’erreur). Cette pratique, largement utilisée par Apple (qui sert d’exemple tout du long) est un obstacle puissant à la réparation et donc à la mise en place d’un marché de la réparation et l’occasion, ce qui pénalise le consommateur et réduit la durée de vie des produits.
+* [Les personnes qui travaillent en permanence à domicile "réduisent leurs émissions de 54 %", par rapport à celles qui travaillent au bureau](https://emploi.developpez.com/actu/348524/Les-personnes-qui-travaillent-en-permanence-a-domicile-reduisent-leurs-emissions-de-54-pourcent-par-rapport-a-celles-qui-travaillent-au-bureau-selon-une-etude-de-Microsoft-et-de-l-universite-de-Cornell/)

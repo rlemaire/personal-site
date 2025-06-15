@@ -1,0 +1,26 @@
+{%- if site.posts.size > 0 -%}
+<nav class="side not-in-mobile">
+    <div>
+        <p><strong>Articles récents</strong></p>
+        <ul class="post-list">
+            {%- for post in site.posts limit: 5 -%}
+            <li>
+                <a href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </li>
+            {%- endfor -%}
+        </ul>
+        <p><strong>Mes articles préférés</strong></p>
+        <ul class="post-list">
+            {%- for post in site.categories.favorite limit: 5 -%}
+            <li>
+                <a href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </li>
+            {%- endfor -%}
+        </ul>
+    </div>
+</nav>
+{%- endif -%}

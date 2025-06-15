@@ -1,0 +1,266 @@
+---
+---
+$bleu-fonce:         #212643;
+$bleu:         #004089;
+$bleu-clair:         #A6BAB6;
+$main-text-color:    #212643;
+$hightlight-color:   #EEF;
+
+:root { font-size: 1rem !important;}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.10rem;
+  line-height: 1.6rem;
+  color: $main-text-color;
+  background-color: white;
+  text-align: left;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-gap: 0;
+}
+
+a {
+  color: $bleu;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $main-text-color;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+pre, code {
+  background-color: white;
+  font-size: smaller;
+  overflow: scroll;
+}
+
+.site-header .wrapper, .site-footer .wrapper {
+  margin-left: 1rem;
+  padding-left: 1rem;
+}
+
+.wrapper {
+  max-width: 45rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  overflow: hidden;
+  margin: auto;
+}
+
+.site-header {
+  border: none;
+  border-bottom: 1px dashed $bleu;
+  padding: 1rem;
+  grid-column: 1 / -1;
+  clear: both;
+}
+
+.site-header a + a {
+  margin-left: 1rem;
+}
+
+.index .home-link,
+.all-posts-doc .all-posts-link,
+.all-links-doc .all-links-link,
+.publications .publications-link,
+.certifications .certifications-link,
+.videos .videos-link,
+.podcasts .podcasts-link,
+.liens .links-link {
+  background-color: $hightlight-color;
+}
+
+.site-footer {
+  border : none;
+  padding: 1rem 0 0.2rem 0;
+  font-size: smaller;
+  font-style: italic;
+  text-align: center;
+  color: #828282;
+  grid-column: 1 / -1;
+  clear: both;
+}
+
+.post-title {
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: $bleu;
+}
+
+
+h1, h2, h3, h4, h5, .post-title {
+  color: $bleu;
+  font-size: 2rem;
+  line-height: 3rem;
+}
+
+h1, .post-content h1 {
+  font-size: 2rem;
+  color: $bleu;
+  margin: 0.5em 0 0 0;
+}
+
+h2, .post-content h2 {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: $bleu;
+}
+
+h3, .post-content h3 {
+  font-size: 1.5rem;
+  color: $bleu-fonce;
+  font-weight: bold;
+}
+
+.post-content {
+  text-align: justify;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  float: right;
+  margin: 1em;
+}
+
+.side {
+  font-size: smaller;
+  margin-top: 1rem;
+
+  strong {
+    font-size: larger;
+    color: $bleu-fonce;
+  }
+}
+
+.side > div {
+  border-right: 1px dashed $bleu;
+  padding: 0 1rem 1rem 1rem;
+}
+
+.post-list {
+  padding-left: 1rem;
+}
+
+hr {
+  margin: 1rem;
+  height: 0;
+  border: none;
+  border-top: 1px dashed $bleu;
+}
+
+.alignright {
+  float: right;
+  margin: 0.25em 0 0.25em 1em;
+}
+
+.alignleft {
+  float: left;
+  margin: 0.25em 1em 0.25em 0;
+
+}
+
+blockquote {
+  font-style: normal;
+}
+
+.post-meta {
+  font-style: italic;
+  color: #424242;
+  margin-top: 0.1em;
+  font-size: smaller;
+}
+
+.rss-subscribe {
+  font-size: small;
+}
+
+img {
+  // Pour les images sur mobile
+  max-width: 90%;
+  box-shadow: 0 0.2rem 1rem #D1CCC0;
+  border-radius: 0.5rem;
+}
+
+@media screen and (max-width: 70rem) {
+  .side {
+    display: none;
+  }
+
+  body {
+    font-size: 1rem;
+    grid-template-columns: 1fr;
+  }
+
+  h1, h2, h3, h4, h5, .post-title, .post-content h1 {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+  }
+
+  h2, .post-content h2 {
+    font-size: 1.4rem;
+  }
+
+  h3, .post-content h3 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: #FFFFE3;
+  }
+
+  a {
+    color: #E8D6AD;
+  }
+
+  a:visited {
+    color: #FFFFE3;
+  }
+
+  pre, code {
+    background-color: white;
+  }
+  .index .home-link,
+  .all-posts-doc .all-posts-link,
+  .all-links-doc .all-links-link,
+  .publications .publications-link,
+  .certifications .certifications-link,
+  .videos .videos-link,
+  .podcasts .podcasts-link,
+  .liens .links-link {
+    background-color: #383341;
+  }
+  .post-title {
+    color: #FF355D;
+  }
+
+  .highlight {
+    color: $main-text-color;
+  }
+
+
+  .post-title, h1, h2, h3, .post-title, .post-content h1, .post-content h2, .side strong {
+    color: #FF355D;
+  }
+
+  h3, h4, h5, .post-content h3 {
+    color: #FFFFE3;
+  }
+
+  .site-header, .site-footer, .side > div, .hr {
+    border-color: #FF355D;
+  }
+
+  .post-meta { color: $hightlight-color }
+
+  img {
+    box-shadow: 0 0.2rem 1rem #3B3B32;
+  }
+}

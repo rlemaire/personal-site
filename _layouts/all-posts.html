@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body class="all-posts-doc">
+
+{%- include header.html -%}
+
+{%- include aside.html -%}
+<main class="page-content" aria-label="Content">
+
+    <div class="wrapper">
+            <h1 class="page-heading post-title">Tous les articles</h1>
+
+            {{ content }}
+
+            {%- if site.posts.size > 0 -%}
+                <ul class="post-list">
+                {%- for post in site.posts -%}
+                    {% unless post.categories contains 'Liens du mois' %}
+                        <li>
+                            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                            <p class="post-meta">{{ post.date | date_to_french }}</p>
+                        </li>
+                    {% endunless %}
+                {%- endfor -%}
+                </ul>
+            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+            {%- endif -%}
+    </div>
+</main>
+
+
+{%- include footer.html -%}
+
+</body>
+
+</html>
