@@ -1,5 +1,5 @@
 ---
-id: 1645
+id: 1646
 title: "Revue de presse - avril et mai 2025"
 date: 2025-05-30T00:00:00+02:00
 author: Raphaël Lemaire

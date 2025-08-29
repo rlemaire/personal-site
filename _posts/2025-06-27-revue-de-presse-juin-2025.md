@@ -1,5 +1,5 @@
 ---
-id: 1646
+id: 1647
 title: "Revue de presse - juin 2025"
 date: 2025-06-27T00:00:00+02:00
 author: Raphaël Lemaire
