@@ -4,6 +4,10 @@ layout: links
 
 # Podcasts
 
+## 2025
+
+- [Zenikast - S03E03 - Dans les coulisses des référentiels Green IT](https://www.youtube.com/watch?v=nzh-LN8gBZ4) avec Anne Faubry et Renaud Héluin
+
 ## 2023
 - [Episode de WeSpeakCloud - Table ronde numérique responsable, avec Ismaël Hommani, Morgane Eckert, Tristan Nitot et Sylvain Revereault](https://www.podcastics.com/podcast/episode/table-ronde-numerique-responsable-237236/)
 - [Episode de podcast IFTTD sur le GreenIT avec Margerie Guilliot et Sylvain Révéreault](https://ifttd.io/conduite-du-changement-vers-le-greenit/)
