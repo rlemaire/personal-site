@@ -8,6 +8,7 @@ layout: links
 
 ## 2025
 
+- [Version 1.0 de EROOM](https://boavizta.org/eroom)
 - [Magazine Programmez hors série #19 : Les impacts des IA générative et comment écoconcevoir avec ces outils.](https://www.programmez.com/magazine/programmez-hors-serie-19)
 - [115 bonnes pratiques d'écoconception web, version 5](https://ecoconceptionweb.com/) - participation parmi les autres contributeurs.
 
