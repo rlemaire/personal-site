@@ -8,7 +8,6 @@ guid: http://raphael-lemaire.com/blog/?p=1653
 permalink: /2025/12/16/eroom-1.0/
 categories:
 - GreenIT
-- Liens du mois
 ---
 La semaine dernière est sortie la première version du framework EROOM. 
 
