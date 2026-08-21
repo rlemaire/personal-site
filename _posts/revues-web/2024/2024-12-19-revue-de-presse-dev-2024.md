@@ -1,6 +1,6 @@
 ---
 id: 1642
-title: "Revue de presse - décembre 2024"
+title: "décembre 2024"
 date: 2024-12-19T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1642
 permalink: /2024/11/19/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Ho Ho Ho,

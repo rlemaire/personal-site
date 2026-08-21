@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=880
 permalink: /2014/04/23/apache-2-modes-worker-et-prefork/
 categories:
   - Technique
+  - articles
 ---
 Il y a deux <del>tribus</del>, modes pour apache 2 : [prefork et worker](http://fr.wikipedia.org/wiki/Apache_HTTP_Server#Les_modes_Prefork.2C_Worker_et_Event), affectés au moment de la compilation.
 

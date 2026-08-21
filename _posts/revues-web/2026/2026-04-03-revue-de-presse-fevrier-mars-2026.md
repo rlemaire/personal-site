@@ -1,13 +1,13 @@
 ---
 id: 1654
-title: "Revue de presse - février & mars 2026"
+title: "février & mars 2026"
 date: 2026-04-03T00:00:00+01:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1654
 permalink: /2026/04/03/revue-de-presse/
 categories:
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

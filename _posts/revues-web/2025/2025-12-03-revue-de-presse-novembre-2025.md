@@ -1,6 +1,6 @@
 ---
 id: 1652
-title: "Revue de presse - novembre 2025"
+title: "novembre 2025"
 date: 2025-12-03T00:00:00+01:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1652
 permalink: /2025/12/03/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

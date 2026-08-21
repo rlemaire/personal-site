@@ -1,13 +1,13 @@
 ---
 id: 1655
-title: "Revue de presse - avril & mai 2026"
+title: "avril & mai 2026"
 date: 2026-05-28T00:00:00+01:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1655
 permalink: /2026/05/28/revue-de-presse/
 categories:
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

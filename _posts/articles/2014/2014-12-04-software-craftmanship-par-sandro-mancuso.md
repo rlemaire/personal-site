@@ -9,6 +9,7 @@ permalink: /2014/12/04/software-craftmanship-par-sandro-mancuso/
 categories:
   - Craftsmanship
   - favorite
+  - articles
 ---
 [<img loading="lazy"  class="alignright size-medium wp-image-1032" src="/wp-content/uploads/2014/12/Capture-d’écran-2014-12-03-à-18.18.15-234x300.png" alt="" width="234" height="300" srcset="/wp-content/uploads/2014/12/Capture-d’écran-2014-12-03-à-18.18.15-234x300.png 234w, /wp-content/uploads/2014/12/Capture-d’écran-2014-12-03-à-18.18.15-798x1024.png 798w, /wp-content/uploads/2014/12/Capture-d’écran-2014-12-03-à-18.18.15.png 1050w" sizes="(max-width: 234px) 100vw, 234px" />](/wp-content/uploads/2014/12/Capture-d’écran-2014-12-03-à-18.18.15.png)
 

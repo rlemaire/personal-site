@@ -2,7 +2,7 @@
 <nav class="side not-in-mobile">
     <div>
         <p><strong>Articles récents</strong></p>
-        <ul class="post-list">
+        <ul>
             {%- for post in site.posts limit: 5 -%}
             <li>
                 <a href="{{ post.url | relative_url }}">
@@ -12,7 +12,7 @@
             {%- endfor -%}
         </ul>
         <p><strong>Mes articles préférés</strong></p>
-        <ul class="post-list">
+        <ul>
             {%- for post in site.categories.favorite limit: 5 -%}
             <li>
                 <a href="{{ post.url | relative_url }}">

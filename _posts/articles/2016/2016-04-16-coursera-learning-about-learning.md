@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1229
 permalink: /2016/04/16/coursera-learning-about-learning/
 categories:
   - Misc
+  - articles
 ---
 Il y a quelques mois, j'ai suivi une formation sur coursera : [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn/).
 

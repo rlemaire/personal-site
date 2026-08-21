@@ -1,6 +1,6 @@
 ---
 id: 1639
-title: "Revue de presse - octobre 2024"
+title: "octobre 2024"
 date: 2024-10-31T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1639
 permalink: /2024/10/31/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

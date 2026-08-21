@@ -1,6 +1,6 @@
 ---
 id: 1628
-title: "Revue de presse - mars 2024"
+title: "mars 2024"
 date: 2024-03-29T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1628
 permalink: /2024/03/29/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 Bonjour,
 

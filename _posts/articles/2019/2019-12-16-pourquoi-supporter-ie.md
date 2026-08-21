@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1612
 permalink: /2019/12/16/pourquoi-supporter-ie/
 categories:
   - GreenIT
+  - articles
 ---
 > Résumé : on devrait toujours supporter IE (ou autre navigateur en retard 
 > du futur), même avec une part de marché faible, au nom de la fracture 

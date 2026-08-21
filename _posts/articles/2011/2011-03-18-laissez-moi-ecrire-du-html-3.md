@@ -8,6 +8,7 @@ guid: http://random-arguments.fr/?p=15
 permalink: /2011/03/18/laissez-moi-ecrire-du-html-3/
 categories:
   - Technique
+  - articles
 ---
 Certaines technologies permettant de créer des pages webs, comme JSF ou GWT, cachent le code html final généré, le développeur déléguant celui-ci à l’API. A partir de là, certains pensent qu’il n’est pas nécessaire au développeur de connaître les technologies sous-jacentes pour développer les pages. Ce n’est pas mon avis.
 

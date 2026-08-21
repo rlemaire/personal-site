@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=853
 permalink: /2014/04/16/petite-astuce-logback/
 categories:
   - Technique
+  - articles
 ---
 Petite astuce avec logback : il est possible [d’utiliser des variables dans le fichier de configuration](http://logback.qos.ch/manual/configuration.html#variableSubstitution),
  définies comme variables d’environnement (-D) ou venant d’un fichier de properties paramétré dans le fichier logback.xml. 

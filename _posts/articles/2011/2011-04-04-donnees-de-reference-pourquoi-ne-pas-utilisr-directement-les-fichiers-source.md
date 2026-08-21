@@ -8,6 +8,7 @@ guid: http://random-arguments.fr/?p=51
 permalink: /2011/04/04/donnees-de-reference-pourquoi-ne-pas-utilisr-directement-les-fichiers-source/
 categories:
   - Technique
+  - articles
 ---
 Il arrive régulièrement d'intégrer dans nos systèmes d'information des fichiers produits par des services extérieurs ou des humains, du type Xml, CSV, ou Excel (xls). En général, le réflexe est de parser ces fichiers pour les traduire dans un modèle objet, que l'on stocke ensuite dans une base de données relationnelle comme « Données de référence ».
 

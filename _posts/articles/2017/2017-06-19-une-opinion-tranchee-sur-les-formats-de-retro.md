@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1379
 permalink: /2017/06/19/une-opinion-tranchee-sur-les-formats-de-retro/
 categories:
   - Agilité
+  - articles
 ---
 [<img loading="lazy"  class="alignright wp-image-1385 size-medium" src="/wp-content/uploads/2017/06/Scrum-Sprint-Retrospective-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/06/Scrum-Sprint-Retrospective-300x225.jpg 300w, /wp-content/uploads/2017/06/Scrum-Sprint-Retrospective.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2017/06/Scrum-Sprint-Retrospective.jpg)
 

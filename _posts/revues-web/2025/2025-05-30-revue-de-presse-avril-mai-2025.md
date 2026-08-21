@@ -1,6 +1,6 @@
 ---
 id: 1646
-title: "Revue de presse - avril et mai 2025"
+title: "avril et mai 2025"
 date: 2025-05-30T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1646
 permalink: /2025/05/30/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

@@ -1,13 +1,13 @@
 ---
 id: 1608
-title: 'Liens en vrac, Janvier et Février 2019'
+title: 'Janvier et Février 2019'
 date: 2019-03-03T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1608
 permalink: /2019/03/03/janvier-et-fevrier-2019-liens/
 categories:
-- Liens du mois
+- revues-web
 ---
 Je ne sais pas trop pourquoi j'ai sauté janvier. J'ai vu passer dans mes divers flux pas mal de choses intéressantes
  ces dernières semaines. Voici donc la moisson :

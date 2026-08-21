@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=369
 permalink: /2012/04/26/la-qualite-est-surtout-une-question-dhabitudes/
 categories:
   - Craftsmanship
+  - articles
 ---
 Plus que de compétences encyclopédiques, **la qualité logicielle est une question d’habitudes**, comme manger des fruits ou faire de l'exercice. Ce n'est pas une fonctionnalité, un attribut que l'on peu ajouter de façon discrète –  par exemple sur un sprint – c'est une variable à intégrer en continu, tout le long de la vie du projet.
 

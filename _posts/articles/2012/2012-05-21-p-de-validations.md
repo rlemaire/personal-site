@@ -9,6 +9,7 @@ permalink: /2012/05/21/p-de-validations/
 categories:
   - Craftsmanship
   - Technique
+  - articles
 ---
 Dans nos applications web et back office du monde Java EE, l’un des problèmes récurrents les plus difficiles est la 
 validation des données. Même les données « simples », genre nom, prénom, email posent en fait pas mal de problèmes.

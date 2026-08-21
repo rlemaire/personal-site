@@ -1,13 +1,13 @@
 ---
 id: 1561
-title: 'Liens en vrac, mars et avril 2018'
+title: 'mars et avril 2018'
 date: 2018-05-01T15:56:37+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1561
 permalink: /2018/05/01/mars-et-avril-2018-des-liens/
 categories:
-- Liens du mois
+- revues-web
 ---
 Une étude pointant un problème des environnements collaboratif : les meilleurs employés sont vus comme des menaces pour la position ou l'estime de soi des gens moins compétents : [&lsquo;Collaboration' Creates Mediocrity, Not Excellence](https://www.inc.com/geoffrey-james/collaboration-creates-mediocrity-not-excellence-according-to-science.html) 
 

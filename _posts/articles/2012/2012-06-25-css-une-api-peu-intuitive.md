@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=499
 permalink: /2012/06/25/css-une-api-peu-intuitive/
 categories:
   - Technique
+  - articles
 ---
 Avec CSS je suis passé par trois périodes.
 

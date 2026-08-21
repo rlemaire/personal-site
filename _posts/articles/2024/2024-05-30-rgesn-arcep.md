@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1631
 permalink: /2024/05/30/sortie-rgesn-arcep/
 categories:
 - GreenIT
+- articles
 ---
 Le vendredi 17 mai, est sorti le RGESN (Référentiel Général d'écoconception de Services Numériques) réalisé par l'ARCEP
 en collaboration avec l'ADEME et l'ARCOM et commandé par la loi REEN.

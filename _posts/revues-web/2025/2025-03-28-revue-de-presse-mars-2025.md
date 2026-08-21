@@ -1,6 +1,6 @@
 ---
 id: 1645
-title: "Revue de presse - mars 2025"
+title: "mars 2025"
 date: 2025-03-28T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1645
 permalink: /2025/03/28/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Les liens en vrac de ce mois de mars.

@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1258
 permalink: /2016/05/28/six-petits-trucs-pour-soigner-sa-sante-mentale-au-quotidien/
 categories:
   - Misc
+  - articles
 ---
 Conserver sa santé mentale dans un monde plein d'agressions de l'esprit n'est pas forcément facile.
 

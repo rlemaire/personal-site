@@ -1,13 +1,13 @@
 ---
 id: 1534
-title: 'Liens en vrac, novembre et décembre 2017'
+title: 'novembre et décembre 2017'
 date: 2017-12-30T21:11:39+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1534
 permalink: /2017/12/30/novembre-et-decembre-les-liens/
 categories:
-- Liens du mois
+- revues-web
 ---
 Une sélection des liens qui me sont passés sous le nez en novembre et décembre, rassemblés pour cause de vacances.
 

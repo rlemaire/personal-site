@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1147
 permalink: /2015/01/27/resume-de-livre-10-days-to-faster-reading/
 categories:
   - Misc
+  - articles
 ---
 [<img loading="lazy"  class="alignright wp-image-1149 size-medium" src="/wp-content/uploads/2015/01/10-days-to-faster-reading-img-199x300.jpg" alt="10-days-to-faster-reading-img" width="199" height="300" srcset="/wp-content/uploads/2015/01/10-days-to-faster-reading-img-199x300.jpg 199w, /wp-content/uploads/2015/01/10-days-to-faster-reading-img.jpg 331w" sizes="(max-width: 199px) 100vw, 199px" />](/wp-content/uploads/2015/01/10-days-to-faster-reading-img.jpg)
 

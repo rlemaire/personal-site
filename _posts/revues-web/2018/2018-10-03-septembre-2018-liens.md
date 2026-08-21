@@ -1,13 +1,13 @@
 ---
 id: 1589
-title: 'Liens en vrac, septembre 2018'
+title: 'septembre 2018'
 date: 2018-10-03T22:39:34+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1589
 permalink: /2018/10/03/septembre-2018-liens/
 categories:
-- Liens du mois
+- revues-web
 ---
 L'article le plus marquant du mois est [ce pamphlet](http://tonsky.me/blog/disenchantment/) qui expose nos faiblesses en tant qu'industrie. Nos logiciels sont obèses, lents, instables, mal conçus. On utilise mille, dix mille fois plus de ressource qu'avant pour faire la même chose. Et personne ne s'en émeut. On empile de nouvelles technologies sur du meilleur matériel, sans vraiment s'améliorer. Cela rejoint mes préoccupations sur l'informatique durable et le gaspillage de ressources (et l'article me donne plein d'exemples et de chiffres sur le sujet).
 

@@ -1,6 +1,6 @@
 ---
 id: 1647
-title: "Revue de presse - juin 2025"
+title: "juin 2025"
 date: 2025-06-27T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1647
 permalink: /2025/06/27/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Est-ce à cause de la fin de pocket ? Très peu de liens stockés ce mois-ci.

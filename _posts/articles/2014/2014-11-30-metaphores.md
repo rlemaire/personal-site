@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1003
 permalink: /2014/11/30/metaphores/
 categories:
   - Craftsmanship
+  - articles
 ---
 Un petit tour des métaphores utilisées pour la construction de logiciels.
 

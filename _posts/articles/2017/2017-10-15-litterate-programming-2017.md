@@ -10,6 +10,7 @@ categories:
   - Craftsmanship
   - "L'art du logiciel"
   - favorite
+  - articles
 ---
 J’ai récemment lu l’article de [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) sur la [programmation lettrée](https://en.wikipedia.org/wiki/Literate_programming). C’est un de ces paradigmes un peu oubliés, avec pourtant un potentiel très cool.
 

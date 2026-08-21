@@ -15,11 +15,9 @@ body {
   color: $main-text-color;
   background-color: white;
   text-align: left;
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-template-rows: auto 1fr auto;
-  grid-gap: 0;
   min-height: 100vh;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 a {
@@ -56,11 +54,20 @@ pre, code {
 
 .site-header {
   border: none;
-  border-bottom: 1px dashed $bleu;
+  margin: 0;
   padding: 1rem;
   grid-column: 1 / -1;
   clear: both;
+
+  .header-content {
+    max-width: 60rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    overflow: hidden;
+    margin: auto;
+  }
 }
+
 
 .site-header a + a {
   margin-left: 1rem;
@@ -125,35 +132,37 @@ h3, .post-content h3 {
 
 .profile-picture {
   border-radius: 50%;
-  float: right;
   margin: 1em;
 }
 
 .side {
   font-size: smaller;
   margin-top: 1rem;
-
-  strong {
-    font-size: larger;
-    color: $bleu-fonce;
-  }
-}
-
-.side > div {
-  border-right: 1px dashed $bleu;
+  float: left;
+  width: 15rem;
+  text-align: center;
+  box-shadow: 2px 2px 10px $hightlight-color;
   padding: 0 1rem 1rem 1rem;
+  border-radius: 0.5rem;
 }
 
-.post-list {
-  padding-left: 1rem;
+
+ul.post-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
 }
 
-hr {
-  margin: 1rem;
-  height: 0;
-  border: none;
-  border-top: 1px dashed $bleu;
+.post-list li {
+  margin: 0.25rem;
+  width: 11rem;
+  border: 1px solid $hightlight-color;
+  box-shadow: 2px 2px 10px $hightlight-color;
+  padding: 1rem;
+  border-radius: 0.5rem;
 }
+
 
 .alignright {
   float: right;

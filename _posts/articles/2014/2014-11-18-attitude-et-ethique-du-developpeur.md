@@ -9,6 +9,7 @@ permalink: /2014/11/18/attitude-et-ethique-du-developpeur/
 categories:
   - Craftsmanship
   - favorite
+  - articles
 ---
 Après pas mal d’années dans le service, pour différents clients, différents projets et dans différents contextes, après maintes lectures de livres et d’articles, je me suis forgé intérieurement une idée de l'attitude à avoir dans le métier, et l'envie m'est venue mettre cela par écrit et de partager.
 

@@ -1,6 +1,6 @@
 ---
 id: 1619
-title: "Revue de presse - Juin 2023"
+title: "Juin 2023"
 date: 2023-06-30T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1619
 permalink: /2023/06/30/revue-de-presse/
 categories:
   - GreenIT
-  - Liens du mois
+  - revues-web
 ---
 
 Voici quelques liens qui ont retenu mon attention ce mois-ci.

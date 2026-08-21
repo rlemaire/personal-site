@@ -1,13 +1,13 @@
 ---
 id: 1538
-title: 'Liens en vrac, janvier 2018'
+title: 'janvier 2018'
 date: 2018-01-31T18:26:16+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1538
 permalink: /2018/01/31/janvier-2018-les-liens/
 categories:
-- Liens du mois
+- revues-web
 ---
   * Bulle ou pas bulle, il y a une bonne raison de ne pas utiliser de bitcoins : la consommation en énergie de ce truc ! [Bitcoin Miners on Track to Use More Electricity Than All of Argentina](http://fortune.com/2018/01/10/bitcoin-miners-electricity-argentina/) #greenit
   * [Ce tweet](https://twitter.com/vovak_/status/952901432058970118) est brillant !

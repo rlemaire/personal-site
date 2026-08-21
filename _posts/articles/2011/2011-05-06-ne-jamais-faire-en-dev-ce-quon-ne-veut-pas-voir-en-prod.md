@@ -8,6 +8,7 @@ guid: http://random-arguments.fr/?p=168
 permalink: /2011/05/06/ne-jamais-faire-en-dev-ce-quon-ne-veut-pas-voir-en-prod/
 categories:
   - Craftsmanship
+  - articles
 ---
 La plupart du temps (et c’est d’heureux), les développeurs d’applications, de sites, travaillent sur un environnement de développement, le plus souvent leur propre machine. Ce qu’ils y font n’est visible que d’eux même et de quelques privilégiés de la même équipe.
 

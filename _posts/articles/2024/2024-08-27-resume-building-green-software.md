@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1634
 permalink: /2024/05/30/resume-building-green-software/
 categories:
 - GreenIT
+- articles
 ---
 J’ai lu la semaine dernière le livre de Anne Curie, Sarah Hsu et Sara bergman intitulé [« Building Green Software - A sustainable approach to software development and operations »](https://www.oreilly.com/library/view/building-green-software/9781098150617/). Voici un partage de mes notes et impressions.
 

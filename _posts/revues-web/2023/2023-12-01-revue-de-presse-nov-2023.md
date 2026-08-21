@@ -1,6 +1,6 @@
 ---
 id: 1624
-title: "Revue de presse - Novembre 2023"
+title: "Novembre 2023"
 date: 2023-12-01T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1624
 permalink: /2023/12/01/revue-de-presse/
 categories:
   - GreenIT
-  - Liens du mois
+  - revues-web
 ---
 
 Bonjour,

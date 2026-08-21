@@ -1,6 +1,6 @@
 ---
 id: 1651
-title: "Revue de presse - octobre 2025"
+title: "octobre 2025"
 date: 2025-10-31T00:00:00+01:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1651
 permalink: /2025/10/31/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

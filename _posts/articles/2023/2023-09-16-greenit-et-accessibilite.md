@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1621
 permalink: /2023/09/16/greenit-et-accessibilite/
 categories:
   - GreenIT
+  - articles
 ---
 [<img loading="lazy"  class="alignright" src="/wp-content/uploads/2023/09/green-it-et-accessibilite.jpg"  alt="Image de couverture du livre « GreenIT et accessibilité »" />](/wp-content/uploads/2023/09/green-it-et-accessibilite.jpg)
 

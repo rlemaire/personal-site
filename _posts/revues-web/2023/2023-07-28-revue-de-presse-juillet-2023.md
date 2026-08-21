@@ -1,6 +1,6 @@
 ---
 id: 1620
-title: "Revue de presse - Juillet 2023"
+title: "Juillet 2023"
 date: 2023-07-28T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1620
 permalink: /2023/07/28/revue-de-presse/
 categories:
   - GreenIT
-  - Liens du mois
+  - revues-web
 ---
 
 Voici quelques liens qui ont retenu mon attention ce mois-ci. En vrac total !

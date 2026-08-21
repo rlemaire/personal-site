@@ -1,15 +1,15 @@
 ---
 id: 1525
-title: 'Liens en vrac, octobre 2017'
+title: 'octobre 2017'
 date: 2017-11-06T13:46:30+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1525
 permalink: /2017/11/06/octobre-les-liens-du-mois/
 categories:
-- Liens du mois
+- revues-web
 ---
-En souvenir de la revue de presse du meetup backbone.js, en complément des excellentes revue d'Arolla et de Xébia, et surtout pour ma pomme, parce que ça me fait une archive de bonne qualité, j'ouvre une catégorie d'articles sur ce blog : les liens du mois.
+En souvenir de la revue de presse du meetup backbone.js, en complément des excellentes revue d'Arolla et de Xébia, et surtout pour ma pomme, parce que ça me fait une archive de bonne qualité, j'ouvre une catégorie d'articles sur ce blog : les revues-web.
 
 Voici donc quelqu'uns des articles qui sont passés sous mes yeux en octobre, et que je trouve assez intéressants pour être partagés.
 

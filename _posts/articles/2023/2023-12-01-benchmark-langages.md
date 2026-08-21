@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1625
 permalink: /2023/12/01/benchmark-langages-limites/
 categories:
   - GreenIT
+  - articles
 ---
 Avez-vous déjà vu ce tableau ?
 

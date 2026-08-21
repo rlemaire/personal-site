@@ -7,25 +7,22 @@
 
 {%- include header.html -%}
 
-{%- include aside.html -%}
 <main class="page-content" aria-label="Content">
 
 
     <div class="wrapper">
         <div>
-            <h1 class="page-heading post-title">Listes de liens stockées pour vous chaque mois</h1>
+            <h1 class="page-heading post-title">Listes de liens stockées pour vous et partagées presque chaque mois</h1>
 
             {{ content }}
 
             {%- if site.posts.size > 0 -%}
             <ul class="post-list">
-                {%- for post in site.posts -%}
-                    {% if post.categories contains 'Liens du mois' %}
+                {%- for post in site.categories.revues-web -%}
                     <li>
-                        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                         <p class="post-meta">{{ post.date | date_to_french }}</p>
+                        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                     </li>
-                    {% endif %}
                 {%- endfor -%}
             </ul>
 

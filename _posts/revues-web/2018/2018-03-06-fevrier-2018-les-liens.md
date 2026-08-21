@@ -1,13 +1,13 @@
 ---
 id: 1553
-title: 'Liens en vrac, février 2018'
+title: 'février 2018'
 date: 2018-03-06T21:39:32+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1553
 permalink: /2018/03/06/fevrier-2018-les-liens/
 categories:
-- Liens du mois
+- revues-web
 ---
   *  Le secret du bonheur au travail serait d'[être indifférent](https://qz.com/1048352/the-secret-to-office-happiness-isnt-working-less-its-caring-less/) (to care less, ce n'est pas évident à traduire). Je ne suis pas prêt d'y arriver.
   * [La légende du développeur rockstar](https://hackernoon.com/the-myth-of-a-rockstar-developer-e6564bd51b5c), et pourquoi en général ces titres comme Nija ou Guru sont contre productifs pour tout le monde.

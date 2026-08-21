@@ -8,6 +8,7 @@ guid: http://random-arguments.fr/?p=114
 permalink: /2011/04/23/resources-bundles/
 categories:
   - Technique
+  - articles
 ---
 Dans une application internationalisée, tous les messages doivent pouvoir être modifiés en fonction de la langue. En java, et dans les technologies dérivées, on utilise pour cela des _resources bundles_, qui sont des fichiers clef/valeurs, la clef permettant de retrouver le message, et la valeur étant le message lui même, le bon resource bundle étant choisi en fonction de la locale.
 

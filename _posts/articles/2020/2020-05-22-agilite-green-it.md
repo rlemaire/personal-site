@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1615
 permalink: /2020/05/22/agilite-greenit/
 categories:
   - GreenIT
+  - articles
 ---
 Comment agilité et numérique responsable peuvent-ils se combiner ? Est-ce que ces deux aspects du développement de 
 logiciel sont en phase ou en conflit ? Peut-on éco-concevoir itérativement ?

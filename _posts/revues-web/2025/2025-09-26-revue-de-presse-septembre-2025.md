@@ -1,6 +1,6 @@
 ---
 id: 1650
-title: "Revue de presse - septembre 2025"
+title: "septembre 2025"
 date: 2025-09-25T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1650
 permalink: /2025/09/25/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

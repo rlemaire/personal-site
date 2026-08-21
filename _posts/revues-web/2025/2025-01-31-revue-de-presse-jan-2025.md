@@ -1,6 +1,6 @@
 ---
 id: 1643
-title: "Revue de presse - janvier 2025"
+title: "janvier 2025"
 date: 2025-01-31T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1643
 permalink: /2025/01/31/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 Je ne vous donnerai pas de lien sur les tribulations politiques Fr et US ni sur DeepSeek ou la baisse de valeur d'OpenAi et NVidia rassurez-vous !
 

@@ -1,6 +1,6 @@
 ---
 id: 1653
-title: "Revue de presse - janvier 2026"
+title: "janvier 2026"
 date: 2026-01-20T00:00:00+01:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1653
 permalink: /2026/01/30/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

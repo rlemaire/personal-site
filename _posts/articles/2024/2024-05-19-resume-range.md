@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1630
 permalink: /2024/05/30/resume-range/
 categories:
 - GreenIT
+- articles
 ---
 J’ai terminé il y a peu le livre de David Epstein, « Range, how generalists triumph in a specialized world ». Voici mes notes et impressions.
 

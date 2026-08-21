@@ -1,6 +1,6 @@
 ---
 id: 1625
-title: "Revue de presse - décembre 2023"
+title: "décembre 2023"
 date: 2023-12-20T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1625
 permalink: /2023/12/20/revue-de-presse/
 categories:
   - GreenIT
-  - Liens du mois
+  - revues-web
 ---
 
 Bonjour,

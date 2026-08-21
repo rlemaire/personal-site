@@ -8,6 +8,7 @@ guid: http://random-arguments.fr/?p=184
 permalink: /2011/04/27/veille-technologique-sexy-vs-utile/
 categories:
   - Craftsmanship
+  - articles
 ---
 [<img loading="lazy"  class="alignright size-medium wp-image-351" title="windev" src="/wp-content/uploads/2011/04/windev1-222x300.png" alt="" width="222" height="300" srcset="/wp-content/uploads/2011/04/windev1-222x300.png 222w, /wp-content/uploads/2011/04/windev1.png 525w" sizes="(max-width: 222px) 100vw, 222px" />](/wp-content/uploads/2011/04/windev1.png)
   

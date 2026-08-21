@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1112
 permalink: /2015/01/18/les-interfaces-ca-sert-a-rien/
 categories:
   - Technique
+  - articles
 ---
 Enfin quasiment toujours, les interfaces dans les projets java moyens ne servent à rien.
 

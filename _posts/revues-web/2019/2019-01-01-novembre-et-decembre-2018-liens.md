@@ -1,13 +1,13 @@
 ---
 id: 1607
-title: 'Liens en vrac, novembre et décembre 2018'
+title: 'novembre et décembre 2018'
 date: 2019-01-01T18:06:40+00:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1607
 permalink: /2019/01/01/novembre-et-decembre-2018-liens/
 categories:
-- Liens du mois
+- revues-web
 ---
 Voici quelque liens que j'ai glanné ces dernières semaines :
 

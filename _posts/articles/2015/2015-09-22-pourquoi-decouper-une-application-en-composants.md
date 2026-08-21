@@ -8,7 +8,8 @@ guid: http://raphael-lemaire.com/blog/?p=1174
 permalink: /2015/09/22/pourquoi-decouper-une-application-en-composants/
 categories:
   - Technique
-  - favorite 
+  - favorite
+  - articles
 ---
 On parle pas mal de micro-services en ce moment, même si le buzz word commence à prendre du plomb dans l’aile et à avoir une image négative (comme SAO en son temps). Sans rentrer dans le débat de savoir si cela correspond bien à la définition de micro service ou pas, il peut être intéressant de découper une application en composant pour tout un tas de raisons.
 

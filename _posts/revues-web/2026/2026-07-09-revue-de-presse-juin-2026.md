@@ -1,13 +1,13 @@
 ---
 id: 1656
-title: "Revue de presse - juin 2026"
+title: "juin 2026"
 date: 2026-07-09T00:00:00+01:00
 author: Raphaël Lemaire
 layout: post
 guid: http://raphael-lemaire.com/blog/?p=1656
 permalink: /2026/07/09/revue-de-presse/
 categories:
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

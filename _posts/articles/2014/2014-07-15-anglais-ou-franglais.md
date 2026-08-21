@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=925
 permalink: /2014/07/15/anglais-ou-franglais/
 categories:
   - Craftsmanship
+  - articles
 ---
 
 Il y a un dilemme qui revient fréquemment : est-ce qu’il faut utiliser le français ou l’anglais pour le code métier ?

@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=888
 permalink: /2014/06/12/author-is-irrelevant/
 categories:
   - Craftsmanship
+  - articles
 ---
 Sur une équipe de plus que 1, laisser l'IDE ajouter le tag `@author` sur chaque classe n'a aucun sens.
 

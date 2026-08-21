@@ -1,6 +1,6 @@
 ---
 id: 1623
-title: "Revue de presse - Octobre 2023"
+title: "Octobre 2023"
 date: 2023-09-29T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1623
 permalink: /2023/10/29/revue-de-presse/
 categories:
   - GreenIT
-  - Liens du mois
+  - revues-web
 ---
 
 Bonjour,

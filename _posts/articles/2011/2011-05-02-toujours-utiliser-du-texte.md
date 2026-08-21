@@ -9,6 +9,7 @@ permalink: /2011/05/02/toujours-utiliser-du-texte/
 categories:
   - Craftsmanship
   - Technique
+  - articles
 ---
 <!-- @page { margin: 2cm } P { margin-bottom: 0.21cm } -->Les applications modernes sont en général composées de plusieurs parties, écrites dans des langages différents. On a du java, du xml, du json, d'autres langages encore.
 

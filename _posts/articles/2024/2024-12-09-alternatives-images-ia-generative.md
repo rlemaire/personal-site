@@ -9,6 +9,7 @@ permalink: /2024/12/06/alternatives-images-ia-gen/
 categories:
 - GreenIT
 - favorite
+- articles
 ---
 
 Depuis quelques années, nous voyons des images générées par IA génératives (comme Midjourney ou Dall-e) pour illustrer du contenu. 

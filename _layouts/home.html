@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body class="index">
+
+{%- include header.html -%}
+
+<nav class="side not-in-mobile">
+    <p>
+    <img class="profile-picture" title="Raphaël Lemaire" src="/assets/avatar.jpg" alt="" width="100" />
+    </p>
+    <p>
+    Responsable Green IT à Zenika. Je forme et j'accompagne les créateurs de services numériques dans la réduction de leurs impacts environnementaux.
+    </p>
+    <p>
+    Je participe à des projets informatiques depuis 2007, en tant que [lead] développeur, architecte, chef de projet, scrum master, formateur, directeur technique.
+    </p>
+    <p>
+    Depuis plusieurs années, j'allie ce travail passionnant et mes préoccupations écologiques en faisant du numérique responsable le centre de mes activités,
+    en participants aux communautés et aux outils (référentiels notamment) et en partageant sur le sujet à travers des interventions et des publications.
+</nav>
+
+<main class="page-content" aria-label="Content">
+
+    <div class="wrapper">
+        <h2>Derniers articles</h2>
+        <ul class="post-list">
+            {%- for post in site.categories.articles limit: 12 -%}
+            <li>
+                <p class="post-meta">{{ post.date | date_to_french }}</p>
+                <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </li>
+            {%- endfor -%}
+        </ul>
+        <p><a href="all-posts.html">Voir tous les articles</a></p>
+    </div>
+</main>
+
+
+{%- include footer.html -%}
+
+</body>
+
+</html>

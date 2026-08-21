@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=696
 permalink: /2012/12/25/1-fixme-todos/
 categories:
   - Craftsmanship
+  - articles
 ---
 Nos IDEs reconnaissent des tags TODO, FIXME et XXX, etc&#8230;, permettant de spécifier que quelque chose est à faire, ou pourrait être à faire, dans le code d'un projet. Je n'en écris plus, et je n'aime pas en voir dans du code sur lequel je travaille. Voici mes arguments contre :
 

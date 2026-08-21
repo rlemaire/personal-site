@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1048
 permalink: /2014/12/20/progression-verticale-et-progression-horizontale/
 categories:
   - Craftsmanship
+  - articles
 ---
 [<img loading="lazy"  class="alignright wp-image-1076" src="/wp-content/uploads/2014/12/Capture-d’écran-2014-12-20-à-20.00.17-210x300.png" alt="Progression verticale" width="150" height="215" srcset="/wp-content/uploads/2014/12/Capture-d’écran-2014-12-20-à-20.00.17-210x300.png 210w, /wp-content/uploads/2014/12/Capture-d’écran-2014-12-20-à-20.00.17.png 432w" sizes="(max-width: 150px) 100vw, 150px" />](/wp-content/uploads/2014/12/Capture-d’écran-2014-12-20-à-20.00.17.png)
 

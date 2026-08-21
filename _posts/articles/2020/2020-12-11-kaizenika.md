@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1616
 permalink: /2020/12/11/kaizenika/
 categories:
   - GreenIT
+  - articles
 ---
 Ce mercredi 9 décembre, est sorti dans les kiosques un hors série du magazine Kaizen dédié au numérique responsable. 
 Ce numéro a été réalisé en collaboration avec Zenika et j’ai eu le plaisir d’y co écrire plusieurs articles.

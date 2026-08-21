@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1613
 permalink: /2020/02/02/mise-en-perspective-suite/
 categories:
   - GreenIT
+  - articles
 ---
 En novembre dernier j'avais, avec trois graphiques, [mis en perspective](/2019/11/02/mise-en-perspective-impacts-numerique/) 
 la taille des données de quelques services numériques, et les émissions de GES de la vidéo en ligne par rapport à quelques 

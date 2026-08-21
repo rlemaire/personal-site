@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=414
 permalink: /2012/05/06/exposer-un-service-soap-avec-play-2-0/
 categories:
   - Technique
+  - articles
 ---
 Ok SOAP n’est plus trop à la mode et Play est fait pour du REST, mais il peut arriver que le client demande un service de ce type, et dans ce cas il faut bien en créer un.
 

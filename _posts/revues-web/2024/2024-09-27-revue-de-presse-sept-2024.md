@@ -1,6 +1,6 @@
 ---
 id: 1637
-title: "Revue de presse - septembre 2024"
+title: "septembre 2024"
 date: 2024-09-27T00:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1637
 permalink: /2024/09/27/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 Bonjour,
 

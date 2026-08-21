@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1565
 permalink: /2018/05/22/resume-de-livre-eco-conception-web-les-115-bonnes-pratiques/
 categories:
   - GreenIT
+  - articles
 ---
 [<img loading="lazy"  class="alignright" src="/wp-content/uploads/2018/05/41FnnOKTVL._SX330_BO1204203200_-200x300.jpg" alt="Couverture du livre « Eco-Conception Web : les 115 bonnes pratiques »" width="200" height="300" srcset="/wp-content/uploads/2018/05/41FnnOKTVL._SX330_BO1204203200_-200x300.jpg 200w, /wp-content/uploads/2018/05/41FnnOKTVL._SX330_BO1204203200_.jpg 332w" sizes="(max-width: 200px) 100vw, 200px" />](/wp-content/uploads/2018/05/41FnnOKTVL._SX330_BO1204203200_.jpg)
 

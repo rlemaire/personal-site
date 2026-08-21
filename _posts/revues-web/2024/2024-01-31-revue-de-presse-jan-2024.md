@@ -1,6 +1,6 @@
 ---
 id: 1626
-title: "Revue de presse - janvier 2024"
+title: "janvier 2024"
 date: 2024-01-31T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1626
 permalink: /2024/01/31/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 Bonjour,
 

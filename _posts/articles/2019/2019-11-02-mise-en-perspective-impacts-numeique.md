@@ -8,6 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1611
 permalink: /2019/11/02/mise-en-perspective-impacts-numerique/
 categories:
   - GreenIT
+  - articles
 ---
 
 EDIT : Ces graphiques ont été mis à jour avec des données plus récentes sur [cette page](/2022/12/11/mep-maj/ "Articles avec la mise à jour de la mise en perspective des impacts du numérique").

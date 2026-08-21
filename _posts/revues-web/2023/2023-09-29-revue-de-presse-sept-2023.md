@@ -1,6 +1,6 @@
 ---
 id: 1622
-title: "Revue de presse - Aout et Septembre 2023"
+title: "Aout et Septembre 2023"
 date: 2023-09-29T00:00:00+00:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1622
 permalink: /2023/09/29/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 
 Bonjour,

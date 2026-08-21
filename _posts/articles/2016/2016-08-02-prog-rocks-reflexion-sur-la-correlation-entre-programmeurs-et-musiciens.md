@@ -8,7 +8,8 @@ guid: http://raphael-lemaire.com/blog/?p=1293
 permalink: /2016/08/02/prog-rocks-reflexion-sur-la-correlation-entre-programmeurs-et-musiciens/
 categories:
   - "L'art du logiciel"
-  - favorite  
+  - favorite
+  - articles
 ---
 J’ai toujours eu l’impression qu’il y avait beaucoup de musiciens parmi les programmeurs.
 

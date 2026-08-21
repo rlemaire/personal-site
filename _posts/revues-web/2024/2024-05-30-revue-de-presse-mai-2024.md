@@ -1,6 +1,6 @@
 ---
 id: 1632
-title: "Revue de presse - mai 2024"
+title: "mai 2024"
 date: 2024-05-30T15:00:00+02:00
 author: Raphaël Lemaire
 layout: post
@@ -8,7 +8,7 @@ guid: http://raphael-lemaire.com/blog/?p=1632
 permalink: /2024/05/30/revue-de-presse/
 categories:
 - GreenIT
-- Liens du mois
+- revues-web
 ---
 Bonjour,
 
