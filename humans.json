@@ -1,0 +1,30 @@
+{
+  "version": "0.1.1",
+  "url": "https://raphael-lemaire.com/",
+  "vouches": [
+    {
+      "url": "https://lalunemauve.fr/",
+      "vouched_at": "2026-09-11"
+    },
+    {
+      "url": "https://ploum.net/",
+      "vouched_at": "2026-09-11"
+    },
+    {
+      "url": "https://jablog.bio",
+      "vouched_at": "2026-09-11"
+    },
+    {
+      "url": "https://bpetit.nce.re/",
+      "vouched_at": "2026-09-11"
+    },
+    {
+      "url": "https://riduidel.wordpress.com",
+      "vouched_at": "2026-09-11"
+    },
+    {
+      "url": "https://bouletcorp.com",
+      "vouched_at": "2026-09-11"
+    }
+  ]
+}
